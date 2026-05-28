@@ -1,8 +1,8 @@
 {
-"name": "ci-cd-demo",
-"version": "1.0.0",
-"scripts": {
-"start": "node index.js",
-"test": "echo "Tests Passed Successfully""
-}
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Tests Passed Successfully\""
+  }
 }
